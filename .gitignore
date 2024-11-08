@@ -1,0 +1,26 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore environment variable files
+.env
+
+# Ignore API keys or other sensitive info files
+secrets.json
+config.json
+*.key
+*.pem
+
+# Ignore text files where sensitive information is stored
+youtube_videos.txt
+user_info.txt
+
+# Ignore IDE or editor files
+.vscode/
+.idea/
+
+# Ignore node_modules or other dependencies
+node_modules/
+
+# Ignore log files
+*.log
