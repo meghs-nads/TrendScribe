@@ -1,4 +1,4 @@
-# Content Fetching Project
+# TrendScribe
 
 This project is a Python-based tool for fetching content from YouTube and Facebook, specifically designed to retrieve details about channel videos and user posts, including comments and descriptions. The purpose of this tool is to enable content creators to easily gather structured data from their online profiles.
 
